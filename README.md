@@ -1,1 +1,1 @@
-Next Js Tailwinf Build
+Next Js Tailwind Build
